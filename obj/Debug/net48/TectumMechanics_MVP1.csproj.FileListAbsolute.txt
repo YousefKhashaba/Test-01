@@ -1,0 +1,11 @@
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\bin\Debug\net48\TectumMechanics_MVP1.gha
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\bin\Debug\net48\TectumMechanics_MVP1.pdb
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.csproj.AssemblyReference.cache
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.AssemblyInfoInputs.cache
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.AssemblyInfo.cs
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.csproj.CoreCompileInputs.cache
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.gha
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.pdb
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.Properties.Resource1.resources
+E:\Yousef\Work\Freelance\Upwork\C# Programming\MVP1\TectumMechanics_MVP1\obj\Debug\net48\TectumMechanics_MVP1.csproj.GenerateResource.cache
