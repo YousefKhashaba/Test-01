@@ -25,18 +25,30 @@ namespace TectumMechanics_MVP1.MyCustomMethods
 
 
         //
+        //
+        //
 
 
-        //Tip #1
+        //    ████████ ██ ██████       ██████   ██ 
+        //       ██    ██ ██   ██     ██  ████ ███ 
+        //       ██    ██ ██████      ██ ██ ██  ██ 
+        //       ██    ██ ██          ████  ██  ██ 
+        //       ██    ██ ██           ██████   ██ 
+        //                                         
 
         ////When using the 'Extend' method. Always remember to reparametrize the extended curve after using the extend method to be able to use it in other methods.
-        
+
         //ExtendedCurve.Domain = new Interval(0, 1); //Reparametrize the extended curve.
 
-        //Tip #2
+        //    ████████ ██ ██████       ██████  ██████  
+        //       ██    ██ ██   ██     ██  ████      ██ 
+        //       ██    ██ ██████      ██ ██ ██  █████  
+        //       ██    ██ ██          ████  ██ ██      
+        //       ██    ██ ██           ██████  ███████ 
+        //                                             
 
         ////Always remember before using transforms to duplicate the geometry into a new variable and then apply the transformation to that new variable to prevent any glitches. 
-        
+
         //Curve OrientedSection = SectionShape.Branches[a][m].DuplicateCurve(); //To prevent glitches.
         //OrientedSection.Transform(xform); //Move/Orient the section shape to the curve's frame.
 
